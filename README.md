@@ -1,2 +1,4 @@
 # My_excel_projects
-What_i_can_do_with_excel
+**What i can do with excel**
+
+*Thanks to Data @nalytics Elite Global ltd amd Luke Barrouse for their break down of concepts on Microsoft Excel.*
