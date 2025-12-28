@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+I conducted an in-depth analysis of the data science job market to identify the most in-demand skills and their correlation with salary growth. Using Excel for data cleaning, pivot tables, and visualization, I uncovered actionable insights for job seekers and employers alike.
 
 ### Questions to Analyze
 
